@@ -7,8 +7,8 @@
 - 💬 Ask me about git, java, c#, vue.js, sql
 - 📫 How to reach me:
   <p align="left"> 
-  <a href="www.linkedin.com/in/vinay-kumar3757">
-    <img src="https://github.com/chelpuri/chelpuri/blob/main/linkedin.png" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/vinay-kumar3757">
+    <img src="" alt="linkedin" />
  </a>
  </p>
 - 😄 Pronouns: vinay
