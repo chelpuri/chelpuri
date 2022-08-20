@@ -8,7 +8,7 @@
 - 📫 How to reach me:
   <p align="left"> 
   <a href="www.linkedin.com/in/vinay-kumar3757">
-    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
+    <img src="https://github.com/chelpuri/chelpuri/blob/main/linkedin.png" alt="linkedin" />
  </a>
  </p>
 - 😄 Pronouns: vinay
