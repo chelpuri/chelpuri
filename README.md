@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **chelpuri/chelpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/vinay-kumar3757) [Gmail](vinay21031998@gmail.com)
 - 😄 Pronouns: vinay
 - ⚡ Fun fact: love cricket
--->
+
