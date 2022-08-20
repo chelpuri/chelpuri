@@ -1,8 +1,4 @@
-### Hi there 👋
-
-**chelpuri/chelpuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 this is vinay
 
 - 🔭 I’m currently working on .NET full stack project
 - 🌱 I’m currently learning java backend development
