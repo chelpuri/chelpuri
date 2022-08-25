@@ -7,10 +7,12 @@
 - 💬 Ask me about git, java, c#, vue.js, sql
 - 📫 How to reach me:
   <p align="left"> 
-  <a href="https://www.linkedin.com/in/vinay-kumar3757">
+ <a href="https://www.linkedin.com/in/vinay-kumar3757">
     <img src="https://github.com/chelpuri/chelpuri/blob/main/LI-In-Bug.png" alt="linkedin" height="30px" width="35px" />
  </a>
+ <a href="https://www.linkedin.com/in/vinay-kumar3757">
+    <img src="https://github.com/chelpuri/chelpuri/blob/main/LI-In-Bug.png" alt="linkedin" height="30px" width="35px" />
+ </a>
+ 
  </p>
-- 😄 Pronouns: vinay
-- ⚡ Fun fact: love cricket
 
