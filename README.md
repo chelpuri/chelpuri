@@ -8,7 +8,7 @@
 - 📫 How to reach me:
   <p align="left"> 
  <a href="https://www.linkedin.com/in/vinay-kumar3757">
-    <img src="https://github.com/chelpuri/chelpuri/blob/main/LI-In-Bug.png" alt="linkedin" height="30px" width="35px" />
+    <img src="https://github.com/chelpuri/chelpuri/blob/main/LI-In-Bug.png" alt="linkedin" height="26px" width="30px" />
  </a>
  <a href="mailto: vinay21031998@gmail.com">
     <img src="https://github.com/chelpuri/chelpuri/blob/main/gmail_logo.png" alt="gmail" height="30px" width="30px" />
