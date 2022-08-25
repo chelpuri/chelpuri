@@ -11,7 +11,7 @@
     <img src="https://github.com/chelpuri/chelpuri/blob/main/LI-In-Bug.png" alt="linkedin" height="30px" width="35px" />
  </a>
  <a href="https://www.linkedin.com/in/vinay-kumar3757">
-    <img src="https://github.com/chelpuri/chelpuri/blob/main/LI-In-Bug.png" alt="linkedin" height="30px" width="35px" />
+    <img src="https://github.com/chelpuri/chelpuri/blob/main/gmail.png" alt="linkedin" height="30px" width="35px" />
  </a>
  
  </p>
