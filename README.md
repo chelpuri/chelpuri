@@ -1,9 +1,9 @@
 ### Hi there 👋 this is vinay
 
-- 🔭 I’m currently working on .NET full stack project
-- 🌱 I’m currently learning java backend development
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with java open source projects
+- 🔭 I’m currently working on .NET and vue.js project
+- 🌱 I’m currently learning Machine Leaning models
+- 👯 I’m looking to collaborate on open source AI projects.
+- 🤔 I’m looking for help with  projects
 - 💬 Ask me about git, java, c#, vue.js, sql
 - 📫 How to reach me:
   <p align="left"> 
