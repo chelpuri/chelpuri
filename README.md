@@ -1,6 +1,6 @@
 ### Hi there 👋 this is vinay
 
-- 🔭 I’m currently working on .NET and vue.js project
+- 🔭 I’m currently working on .NET full stack project
 - 🌱 I’m currently learning Machine Leaning models
 - 👯 I’m looking to collaborate on open source AI projects.
 - 🤔 I’m looking for help with  projects
