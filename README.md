@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on .NET full stack project
 - 🌱 I’m currently learning Machine Leaning models
-- 👯 I’m looking to collaborate on open source AI projects.
+- 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with  projects
 - 💬 Ask me about git, java, c#, vue.js, sql
 - 📫 How to reach me:
